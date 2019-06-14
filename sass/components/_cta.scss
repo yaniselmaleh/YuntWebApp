@@ -1,0 +1,10 @@
+@import "../helpers/varaibles.scss";
+
+.btn-filled{
+    border: 2px solid $border;
+}
+.btn-unfilled{
+    border: 1px solid #DC6795;
+    background: rgb(220,103,149);
+    background: linear-gradient(90deg, rgba(220,103,149,1) 35%, rgba(231,107,97,1) 100%); 
+}

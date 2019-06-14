@@ -1,0 +1,30 @@
+aside{
+    margin: 10vh 0vh;
+    border-bottom: 10px solid #463db2;
+
+    img{
+        width: 100%;
+        // margin-left: -20%;
+        margin: auto;
+        display: block;
+        margin-top: -150px;
+        position: relative;
+    }
+
+    h3, p{
+        text-align: center;
+        color: white;
+    }
+
+    h3{
+        padding-top: 3vh;
+        font-size: 30px;
+    }
+
+    p{
+        width: 60%;
+        margin: auto;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+}
