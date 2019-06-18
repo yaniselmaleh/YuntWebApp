@@ -7217,7 +7217,7 @@ module.exports = "/_next/static/images/yunt-recompenses-b79c3d3f754bf160fb01d292
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!**************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5Cwamp64%5Cwww%5CYunt-io%5Cyuntio%5Cpages%5Cindex.js ***!
   \**************************************************************************************************************************/
@@ -7240,5 +7240,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

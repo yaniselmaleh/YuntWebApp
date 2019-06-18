@@ -236,5 +236,27 @@ aside {
 #bot .rsc-ts.rsc-ts-bot.sc-dnqmqq.efROPc {
   width: 100%; }
 
+* {
+  padding: 0;
+  margin: 0; }
 
-/*# sourceMappingURL=styles.chunk.css.map*/
+.error404 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  color: #fff;
+  font-family: "Playfair Display", serif;
+  background: #dc6795;
+  background-image: url(/_next/static/images/yunt-background-51733cb846692710daa239c38d5fe512.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+  .error404 p {
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 2px; }
+
