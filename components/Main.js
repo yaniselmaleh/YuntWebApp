@@ -12,7 +12,7 @@ const Main = () => (
                 <div className="container">
                     <div id="concept">
                         <article>
-                        <Descriptif title="Concept" description="Découvrez votre nouveau terrain de jeu<br>Participer à une expérience unique au sein de nos magasins partenaires et soyez récompensé en fonction de votre score final !<br></br>Partout en France, aidez Oursoupidou à résoudre les mystérieuses énigmes que peuvent renfermer vos enseignes préférées."/>
+                        <Descriptif title="Concept" description="Découvrez votre nouveau terrain de jeu. Participer à une expérience unique au sein de nos magasins partenaires et soyez récompensé en fonction de votre score final ! Partout en France, aidez Oursoupidou à résoudre les mystérieuses énigmes que peuvent renfermer vos enseignes préférées."/>
                         </article>
 
                         <aside>
@@ -30,7 +30,7 @@ const Main = () => (
                         </aside>
 
                         <article className="progression_labeur_left">
-                            <Descriptif title="Progression" description="Repoussez vos limites<br>Sélectionnez votre niveau de difficulté, surmontez les épreuves et gagnez en expérience.<br></br>Que vous ayez l’âme d’un explorateur, d’un aventurier ou même d’un chevalier, plus vous jouez, plus vous gagnez !"/>
+                            <Descriptif title="Progression" description="Repoussez vos limites. Sélectionnez votre niveau de difficulté, surmontez les épreuves et gagnez en expérience. Que vous ayez l’âme d’un explorateur, d’un aventurier ou même d’un chevalier, plus vous jouez, plus vous gagnez !"/>
                         </article>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ const Main = () => (
                 <div className="container">
                     <div id="recompenses">
                         <article>
-                            <Descriptif title="Recompenses" description="Obtenez votre gain<br>Parce qu’on sait très bien que c’est ce qui vous intéresse, nous vous offrons la chance de remporter des avantages en magasin.<br></br>Produit de vos rêves, code promo ou avoir, c’est vous qui décidez ! Si vous arrivez à relevez les défis les plus ambitieux, naturellement…"/>
+                            <Descriptif title="Recompenses" description="Obtenez votre gain. Parce qu’on sait très bien que c’est ce qui vous intéresse, nous vous offrons la chance de remporter des avantages en magasin. Produit de vos rêves, code promo ou avoir, c’est vous qui décidez ! Si vous arrivez à relevez les défis les plus ambitieux, naturellement…"/>
                         </article>
 
                         <aside>
