@@ -8,13 +8,11 @@ export default function Home() {
   return (
     <section id="home">
         <div className="container">
-          <h1>Yunt, l’escape game<br></br>en magasin</h1>
-            <p>
-            Une toute nouvelle expérience, avec Yunt
+          <h1>Yunt, l’escape game<br></br>en magasin</h1>    
+            <p>Mettez-vous au défi et testez vos compétences avec yunt.
             <br></br>
-            participez à un escape game dans le magasin de votre
-            <br></br>
-            choix, et proﬁtez de réductions sur la totalité de votre achat !
+            Participez à des chasses au trésor dans le magasin de votre choix
+            <br></br>et proﬁtez d'incroyables réductions sur l'ensemble de votre panier !
           </p>
             <Cta name="Découvrir" className="filled" url="#concept"/>
             <Cta name="Télécharger" className="unfilled" url="#telecharger"/>
