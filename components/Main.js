@@ -12,7 +12,7 @@ const Main = () => (
                 <div className="container">
                     <div id="concept">
                         <article>
-                        <Descriptif title="Concept" description="Découvrez votre nouveau terrain de jeuParticiper à une expérience unique au sein de nos magasins partenaires et soyez récompensé en fonction de votre score final ! Partout en France, aidez Oursoupidou à résoudre les mystérieuses énigmes que peuvent renfermer vos enseignes préférées."/>
+                        <Descriptif title="Concept" description="Découvrez votre nouveau terrain de jeu<br>Participer à une expérience unique au sein de nos magasins partenaires et soyez récompensé en fonction de votre score final !<br></br>Partout en France, aidez Oursoupidou à résoudre les mystérieuses énigmes que peuvent renfermer vos enseignes préférées."/>
                         </article>
 
                         <aside>
@@ -26,11 +26,11 @@ const Main = () => (
                 <div className="container">
                     <div id="progression">
                         <aside>
-                            <Cards src={Progression} title="Progression" description="Choisissez votre niveau de difficulté, surmontez les épreuves et évoluez pour gagner davantage de lots."/>
+                            <Cards src={Progression} title="Progression" description="Tentez de remporter davantage de lots en jouant à plusieurs, et en partageant votre score !"/>
                         </aside>
 
                         <article className="progression_labeur_left">
-                            <Descriptif title="Progression" description="Choisissez votre niveau de difficulté, surmontez les épreuves et évoluez pour gagner davantage de lots."/>
+                            <Descriptif title="Progression" description="Repoussez vos limites<br>Sélectionnez votre niveau de difficulté, surmontez les épreuves et gagnez en expérience.<br></br>Que vous ayez l’âme d’un explorateur, d’un aventurier ou même d’un chevalier, plus vous jouez, plus vous gagnez !"/>
                         </article>
                     </div>
                 </div>
@@ -40,11 +40,11 @@ const Main = () => (
                 <div className="container">
                     <div id="recompenses">
                         <article>
-                            <Descriptif title="Recompenses" description="( On sait que c’est ce qui vous intéresse ). Un pourcentage de réduction en fonction du temps impartis dans nos magasins partenaires !"/>
+                            <Descriptif title="Recompenses" description="Obtenez votre gain<br>Parce qu’on sait très bien que c’est ce qui vous intéresse, nous vous offrons la chance de remporter des avantages en magasin.<br></br>Produit de vos rêves, code promo ou avoir, c’est vous qui décidez ! Si vous arrivez à relevez les défis les plus ambitieux, naturellement…"/>
                         </article>
 
                         <aside>
-                            <Cards src={Recompenses} title="Recompenses" description="Un pourcentage de réduction en fonction du temps impartis dans nos magasins partenaires."/>
+                            <Cards src={Recompenses} title="Recompenses" description="Obtenez le meilleur de ce que vous proposent vos enseignes favorites à l’issue de votre expérience de jeu. Partagez à vos proches et notez les challenges !"/>
                         </aside>
                     </div>
                 </div>
