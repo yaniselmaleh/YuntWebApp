@@ -9,7 +9,7 @@ export default function Home() {
     <section id="home">
         <div className="container">
           <h1>Yunt App,<br></br>le challenge en magasin</h1>    
-            <p>Mettez-vous au défi et testez vos compétences avec yunt.
+            <p><b>Mettez-vous au défi et testez vos compétences avec yunt.</b>
             <br></br>
             Participez à des chasses au trésor dans le magasin de votre choix
             <br></br>et proﬁtez d'incroyables réductions sur l'ensemble de votre panier !
