@@ -16,7 +16,7 @@ const Main = () => (
                         </article>
 
                         <aside>
-                            <Cards src={Concept} title="Oursoupidou" description="Un concept innovant & riche en fonctionnalités"/>
+                            <Cards src={Concept} description="Un concept innovant & riche en fonctionnalités"/>
                         </aside>
 
                     </div>
@@ -27,7 +27,7 @@ const Main = () => (
                 <div className="container">
                     <div id="progression">
                         <aside>
-                            <Cards src={Progression} title="Progression" description="Tentez de remporter davantage de lots en jouant à plusieurs, et en partageant votre score !"/>
+                            <Cards src={Progression} description="Tentez de remporter davantage de lots en jouant à plusieurs, et en partageant votre score !"/>
                         </aside>
 
                         <article className="progression_labeur_left">
@@ -45,7 +45,7 @@ const Main = () => (
                         </article>
 
                         <aside>
-                            <Cards src={Recompenses} title="Recompenses" description="Obtenez le meilleur de ce que vous proposent vos enseignes favorites à l’issue de votre expérience de jeu. Partagez à vos proches et notez les challenges !"/>
+                            <Cards src={Recompenses} description="Obtenez le meilleur de ce que vous proposent vos enseignes favorites à l’issue de votre expérience de jeu. Partagez à vos proches et notez les challenges !"/>
                         </aside>
                     </div>
                 </div>
