@@ -12,7 +12,7 @@ const Main = () => (
                 <div className="container">
                     <div id="concept">
                         <article>
-                        <Descriptif title="Concept" description="Découvrez votre nouveau terrain de jeu. Participer à une expérience unique au sein de nos magasins partenaires et soyez récompensé en fonction de votre score final ! Partout en France, aidez Oursoupidou à résoudre les mystérieuses énigmes que peuvent renfermer vos enseignes préférées."/>
+                        <Descriptif title="Concept" description="Participez à une <b>chasse au trésor dans nos <br></br>magasins partenaires</b> partout en <b>France</b> et <b>gagnez <br></br>de nombreuses récompenses.</b>"/>
                         </article>
 
                         <aside>
