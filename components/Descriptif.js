@@ -7,7 +7,7 @@ class Descriptif extends Component {
             <React.Fragment>
                 <h2>{this.props.title}</h2>
                 <hr></hr>
-                <p>{this.props.description}</p>
+                <p dangerouslySetInnerHTML={{__html: this.props.description}}></p>
             </React.Fragment>
         )
     }
