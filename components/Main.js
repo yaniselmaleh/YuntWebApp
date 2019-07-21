@@ -12,7 +12,7 @@ const Main = () => (
                 <div className="container">
                     <div id="concept">
                         <article>
-                            <Descriptif title="Concept" description="Participez à une <b>chasse au trésor dans nos <br></br>magasins partenaires</b> partout en <b>France</b> et <b>gagnez <br></br>de nombreuses récompenses.</b>"/>
+                            <Descriptif title="Concept" description="Participez à une <b>chasse au trésor dans nos <br>magasins partenaires</b> partout en <b>France</b> et <b>gagnez <br>de nombreuses récompenses.</b>"/>
                         </article>
 
                         <aside>
