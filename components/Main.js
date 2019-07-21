@@ -27,11 +27,11 @@ const Main = () => (
                 <div className="container">
                     <div id="progression">
                         <aside>
-                            <Cards src={Progression} description="Tentez de remporter davantage de lots en jouant à plusieurs, et en partageant votre score !"/>
+                            <Cards src={Progression} description="Une progression simple adaptée à tous les niveaux"/>
                         </aside>
 
                         <article className="progression_labeur_left">
-                            <Descriptif title="Progression" description="Repoussez vos limites. Sélectionnez votre niveau de difficulté, surmontez les épreuves et gagnez en expérience. Que vous ayez l’âme d’un explorateur, d’un aventurier ou même d’un chevalier, plus vous jouez, plus vous gagnez !"/>
+                            <Descriptif title="Progression" description="<b>Choisissez</b> votre niveau de difficulté, <b>surmontez</b> les <br>épreuves et <b>évoluez</b> pour <b>gagner davantage de <br>lots.</b>"/>
                         </article>
                     </div>
                 </div>
@@ -41,11 +41,11 @@ const Main = () => (
                 <div className="container">
                     <div id="recompenses">
                         <article>
-                            <Descriptif title="Recompenses" description="Obtenez votre gain. Parce qu’on sait très bien que c’est ce qui vous intéresse, nous vous offrons la chance de remporter des avantages en magasin. Produit de vos rêves, code promo ou avoir, c’est vous qui décidez ! Si vous arrivez à relevez les défis les plus ambitieux, naturellement…"/>
+                            <Descriptif title="Recompenses" description="Car nous savons que c’est ce qui vous intéresse, recevez <b>un pourcentage de réduction</b> en fonction de votre position dans le classement et du temps impartis dans <b>nos magasins partenaires !</b>"/>
                         </article>
 
                         <aside>
-                            <Cards src={Recompenses} description="Obtenez le meilleur de ce que vous proposent vos enseignes favorites à l’issue de votre expérience de jeu. Partagez à vos proches et notez les challenges !"/>
+                            <Cards src={Recompenses} description="Toujours gagnants ! des récompenses méritées et à la hauteur de nos attentes"/>
                         </aside>
                     </div>
                 </div>
