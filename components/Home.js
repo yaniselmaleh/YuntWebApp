@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <section id="home">
         <div className="container">
-          <h1>Yunt App,<br></br>le challenge en magasin</h1>    
+          <h1>Yunt, le challenge<br></br>en magasin</h1>    
             
           <p>
             <b>Mettez-vous au défi et testez vos compétences avec yunt.</b>
