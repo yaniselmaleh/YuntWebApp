@@ -18,8 +18,8 @@ export default function Home() {
             et <b>proﬁtez d'incroyables réductions sur l'ensemble de votre panier !</b>
           </p>
 
-          <Cta name="Découvrir" className="unfilled" url="#concept"/>
-          <Cta name="Télécharger" className="filled" url="#telecharger"/>
+          <Cta name="Télécharger" className="unfilled" url="#telecharger"/>
+          <Cta name="Découvrir" className="filled" url="#concept"/>
         </div>
   </section> 
   );
