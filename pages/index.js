@@ -1,11 +1,11 @@
 import Home from '../components/Home';
 import Main from '../components/Main';
-import Bot from '../components/Bot';
+// import Bot from '../components/Bot';
 
 export default function Index() {
   return (
     <React.Fragment>
-    <Bot/>
+    // <Bot/>
       <Home/>
       <Main/>
     </React.Fragment>
