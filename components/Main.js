@@ -41,7 +41,7 @@ const Main = () => (
                 <div className="container">
                     <div id="recompenses">
                         <article>
-                            <Descriptif title="Recompenses" description="Car nous savons que c’est ce qui vous intéresse, recevez <b>un pourcentage de réduction</b> en fonction de votre position dans le classement et du temps impartis dans <b>nos magasins partenaires !</b>"/>
+                            <Descriptif title="Récompenses" description="Car nous savons que c’est ce qui vous intéresse, recevez <b>un pourcentage de réduction</b> en fonction de votre position dans le classement et du temps impartis dans <b>nos magasins partenaires !</b>"/>
                         </article>
 
                         <aside>
