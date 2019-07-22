@@ -18,7 +18,7 @@ export default function Home() {
             et <b>proﬁtez d'incroyables réductions sur l'ensemble de votre panier !</b>
           </p>
 
-          <Cta name="Télécharger" className="unfilled" url="#telecharger"/>
+          <Cta name="Télécharger" className="unfilled" url="http://yunt.yaniselmaleh.fr/"/>
           <Cta name="Découvrir" className="filled" url="#concept"/>
         </div>
   </section> 
