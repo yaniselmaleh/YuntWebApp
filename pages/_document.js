@@ -15,6 +15,8 @@ export default class MyDocument extends Document {
           <main>
             <Main />
             <NextScript />
+            <div class="fb-customerchat" page_id="342493183076214" ref="live_chat" theme_color="optional hex color code"></div>
+
       
       <script>
          var div = document.createElement('div');
